@@ -55,7 +55,10 @@ div.blue{
     border-right: solid 5px #ffffff;
     border-left: none;
 }
-div.blue h2, div.blue p{
+div.blue h2{
+    color: #C4C4C4;
+}
+div.blue p{
     color: #C4C4C4;
 }
 div.yellow{

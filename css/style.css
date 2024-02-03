@@ -51,9 +51,9 @@ div.blue{
     text-align: left;
     margin-right: 50px;
     border-top: solid 2px #ffffff;
-    border-right: none;
     border-right: solid 5px #ffffff;
     border-left: none;
+    border-bottom: none;
 }
 div.blue h2{
     color: #C4C4C4;
@@ -78,9 +78,9 @@ div.green{
     text-align: left;
     margin-right: 50px;
     border-top: solid 2px #ffffff;
-    border-right: none;
     border-right: solid 5px #ffffff;
     border-left: none;
+    border-bottom: none;
 }
 footer{
     border-top: solid 5px #ffffff;
@@ -94,6 +94,6 @@ footer p{
     font-size: 20px;
     padding-top: 15px;
     padding-right: 15px;
-    padding-left: none;
+    padding-left: 0;
     padding-bottom: 15px;
 }

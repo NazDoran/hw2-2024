@@ -94,6 +94,6 @@ footer p{
     font-size: 20px;
     padding-top: 15px;
     padding-right: 15px;
-    padding-right: 0;
+    padding-right: none;
     padding-bottom: 15px;
 }
